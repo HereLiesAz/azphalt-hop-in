@@ -6,6 +6,7 @@
   "kind": "asset",
   "license": "LicenseRef-Proprietary",
   "compat": ">=0.1",
+  "description": "Words leap up from below, stretch thin on the way, squash flat on impact and spring back to shape — full cartoon weight.",
   "author": "HereLiesAz",
   "targetApps": [
     "com.hereliesaz.guillotine"
